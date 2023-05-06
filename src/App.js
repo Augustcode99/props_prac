@@ -1,4 +1,5 @@
 import Person from "./components/Person";
+import data from "./data.js";
 
 function App() {
   return (
